@@ -21,10 +21,10 @@ form{
 }
 form input[type="text"]{
     padding: 10px;
-    border:none;
-    outline:none;
-    font-size:18px;
-    width:60%;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    width: 60%;
 }
 form input[type="submit"]{
     background-color: #007bff;
@@ -34,8 +34,8 @@ form input[type="submit"]{
     border-radius: 5px;
     font-size: 18px;
     cursor: pointer;
-    outline:none;
-    transition: background-color .3s ease;
+    outline: none;
+    transition: background-color 0.3s ease;
 }
 form input[type="submit"]:hover{
     background-color: #0062cc;
@@ -63,21 +63,21 @@ form input[type="submit"]:hover{
     flex-wrap: wrap;
 }
 .details >div{
-    padding:20px;
+    padding: 20px;
     background-color: #f1f1f1;
     margin: 10px;
     flex: 1;
     border-radius: 5px;
     text-align: center;
-    min-height:45px;
-    color: black;
+    min-height: 45px;
 }
 @media(max-width:768px){
     form{
         flex-direction: column;
+
     }
     form input[type="text"]{
-        width:100%;
+        width: 100%;
         margin-bottom: 10px;
     }
 }
