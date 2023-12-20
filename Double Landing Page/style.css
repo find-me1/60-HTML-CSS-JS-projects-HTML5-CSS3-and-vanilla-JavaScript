@@ -6,6 +6,7 @@ body{
     align-items: center;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    overflow: hidden;
 }
 h1{
     font-size: 100px;
@@ -21,6 +22,7 @@ h1{
     border: 4px solid;
     cursor: pointer;
     transition: 1s background-color;
+    white-space: nowrap;
 }
 .btn:hover{
     background-color: white;
@@ -36,12 +38,32 @@ h1{
     left: 0;
     background-color: pink;
     background-image: url(https://m.media-amazon.com/images/I/61J9KUops4L._AC_UF1000,1000_QL80_.jpg);
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: 20px -70px;
+
 }
 .split.right{
     position: absolute;
     right: 0;
     background-color: lightblue;
     background-image: url(https://m.media-amazon.com/images/I/71nj3tkXZXL._AC_UF894,1000_QL80_.jpg);
-    background-size: 100% 100%;
+    background-size: 100% 90%,0 0;
+    background-position: 10px 20px,20px 10px;
+    background-repeat: no-repeat;
+}
+.active-left .left{
+    width: 70%;
+    background-position: 10px -80px;
+}
+.active-left .right{
+    width: 40%;
+}
+.active-right .left{
+    width: 50%;
+}
+.active-right .right{
+    width: 70%;
+}
+.left,.right{
+    transition: width  2s ease-in-out;
 }
