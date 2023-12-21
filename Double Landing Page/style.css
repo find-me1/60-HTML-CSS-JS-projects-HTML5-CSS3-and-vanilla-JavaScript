@@ -1,69 +1,72 @@
-body{
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    height: 100vh;
-    align-items: center;
-    text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    overflow: hidden;
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  overflow: hidden;
 }
-h1{
-    font-size: 100px;
-    color: aliceblue;
-    backdrop-filter: brightness(0.5);
-    letter-spacing: 4px;
+h1 {
+  font-size: 100px;
+  color: aliceblue;
+  backdrop-filter: brightness(0.5);
+  letter-spacing: 4px;
 }
-.btn{
-    background-color: black;
-    color: white;
-    padding: 20px 40px;
-    font-size: 25px;
-    border: 4px solid;
-    cursor: pointer;
-    transition: 1s background-color;
-    white-space: nowrap;
+.btn {
+  background-color: black;
+  color: white;
+  padding: 20px 40px;
+  font-size: 25px;
+  border: 4px solid;
+  cursor: pointer;
+  transition: 1s background-color;
+  white-space: nowrap;
 }
-.btn:hover{
-    background-color: white;
-    color: black;
+.btn:hover {
+  background-color: white;
+  color: black;
 }
-.split{
-    width: 50%;
-    height: 100%;
-    top: 0;
+.split {
+  width: 50%;
+  height: 100%;
+  top: 0;
 }
-.split.left{
-    position: absolute;
-    left: 0;
-    background-color: pink;
-    background-image: url(https://m.media-amazon.com/images/I/61J9KUops4L._AC_UF1000,1000_QL80_.jpg);
-    background-size: cover;
-    background-position: 20px -70px;
-
+.split.left {
+  position: absolute;
+  left: 0;
+  background-color: pink;
+  background-image: url(https://m.media-amazon.com/images/I/61J9KUops4L._AC_UF1000,1000_QL80_.jpg);
+  background-size: cover;
+  background-position: 20px -70px;
 }
-.split.right{
-    position: absolute;
-    right: 0;
-    background-color: lightblue;
-    background-image: url(https://m.media-amazon.com/images/I/71nj3tkXZXL._AC_UF894,1000_QL80_.jpg);
-    background-size: 100% 90%,0 0;
-    background-position: 10px 20px,20px 10px;
-    background-repeat: no-repeat;
+.split.right {
+  position: absolute;
+  right: 0;
+  background-color: lightblue;
+  background-image: url(https://m.media-amazon.com/images/I/71nj3tkXZXL._AC_UF894,1000_QL80_.jpg);
+  background-size: 100% 90%, 0 0;
+  background-position: 10px 20px, 20px 10px;
+  background-repeat: no-repeat;
 }
-.active-left .left{
-    width: 70%;
-    background-position: 10px -80px;
+.split.left .background-image {
+  outline: none;
 }
-.active-left .right{
-    width: 40%;
+.active-left .left {
+  width: 70%;
+  background-position: 10px -80px;
 }
-.active-right .left{
-    width: 50%;
+.active-left .right {
+  width: 40%;
 }
-.active-right .right{
-    width: 70%;
+.active-right .left {
+  width: 50%;
 }
-.left,.right{
-    transition: width  2s ease-in-out;
+.active-right .right {
+  width: 70%;
+}
+.left,
+.right {
+  transition: width 2s ease-in-out;
 }
