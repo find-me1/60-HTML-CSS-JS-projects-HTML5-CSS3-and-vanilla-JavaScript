@@ -2,11 +2,20 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+    display: flex;
+    justify-content: center;
     text-align: center;
+    height: 50vh;
+    align-items: center;
 }
 h1{
     font-size: 4rem;
+    
 }
 .value{
     font-size: 6rem;
+    margin-left: 100px;
+}
+.btn-danger{
+    margin-left: 50px;
 }
