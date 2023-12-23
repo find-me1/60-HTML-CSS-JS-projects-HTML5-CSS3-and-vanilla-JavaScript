@@ -18,7 +18,7 @@ This comprehensive project showcases my dedication to learning and development, 
 
 [Background Image Scroll Effect](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Background%20Image%20Scroll%20Effect/index.html)
 
-[Background Video](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Background%20Video/index.html)
+[Background Video](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Background%20video/index.html)
 
 [Basic Calculator](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Basic%20Calculator/index.html)
 
@@ -90,13 +90,13 @@ This comprehensive project showcases my dedication to learning and development, 
 
 [Random Quote Generator](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Random%20Quote%20Generator/index.html)
 
-[Random Color Generator](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Random%20Color%20Generator/index.html)
+[Random Color Generator](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Random%20color%20Generator/index.html)
 
-[Real-time Character Counter](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Real-time%20Character%20Counter/index.html)
+[Real-time Character Counter](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Real-time%20character%20counter/index.html)
 
-[Recipe Book App](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Recipe%20Book%20App/index.html)
+[Recipe book app](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Recipe%20book%20app/index.html)
 
-[Rock, Paper, Scissors](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Rock%2C%20Paper%2C%20Scissors/index.html)
+[Rockpaperscissor](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Rockpaperscissor/index.html)
 
 [Rotating Image Gallery](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Rotating%20Image%20Gallery/index.html)
 
@@ -118,7 +118,7 @@ This comprehensive project showcases my dedication to learning and development, 
 
 [Tip Calculator](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Tip%20Calculator/index.html)
 
-[To-Do List](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/To-Do%20List/index.html)
+[To do List](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/To%20do%20List/index.html)
 
 [Video Trailer Popup](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Video%20Trailer%20Popup/index.html)
 
