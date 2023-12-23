@@ -18,7 +18,8 @@ body{
 }
 .image-container{
     display: flex;
-
+    /*transform: translateX(-500px);*/
+    transition: transform 0.4s ease-in-out;
 }
 .btn{
     position: absolute;
