@@ -12,7 +12,7 @@ img{
     width: 70px;
     position: absolute;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translate(-50%);
     top: 60px;
     z-index: 2;
 }
@@ -23,11 +23,11 @@ img{
     height: 350px;
     border-radius: 50%;
     border: 5px solid darkgray;
-    box-shadow: 1px 1px 4px rbga(0,0,0,0.7);
+    box-shadow: 1px 1px 4px rgba(0,0,0,0.7);
 }
 .numbers div{
     position: absolute;
-    font: 27px;
+    font-size: 27px;
     font-weight: bold;
     color: lightgoldenrodyellow;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
@@ -35,7 +35,7 @@ img{
 .twelve{
     top: 6px;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translate(-50%);
 }
 .three{
     right: 6px;
@@ -79,11 +79,9 @@ img{
     border-radius: 50% 50% 0 0;
     box-shadow: 1px 1px 2px rgba(0,0,0,0.7);
 }
-.arrows .hour{
+.hour{
     height: 80px;
-    transform: rotate(30deg);
 }
 .arrows .second{
-    transform: rotate(250deg);
-     background-color: goldenrod;
+    background-color: goldenrod;
 }
