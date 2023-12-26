@@ -42,7 +42,7 @@ This comprehensive project showcases my dedication to learning and development, 
 
 [Double Landing Page](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Double%20Landing%20Page/index.html)
 
-[Drum Kits](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Drum%20Kits/index.html)
+[Drum Kits](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Drum%20KITS/index.html)
 
 [Emoji Rating](https://find-me1.github.io/60-HTML-CSS-JS-projects-HTML5-CSS3-and-vanilla-JavaScript/Emoji%20Rating/index.html)
 
