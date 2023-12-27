@@ -44,12 +44,22 @@ img{
 .btn:nth-child(3){
     border-top-right-radius: 0.5rem;
 }
-.button:hover{
-    background: #FFBDF7;
+.button:hover:not(.live){
+    background: #e93b81;
     color: white;
 }
 .tabs-content{
     padding: 2rem 1.5rem;
+}
+.content{
+    display: none;
+}
+.content.live{
+    display: block;
+}
+.button.live{
+    background: #FFECEC;
+
 }
 @media (min-width:992px){
     .image{
