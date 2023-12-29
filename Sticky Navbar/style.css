@@ -29,11 +29,10 @@ body{
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    transition: background-color 0.4s;
 }
 .navbar img{
-    width: 200px;
-    height: 80px;
-    transform: translateX(-250%);
+    transform: translateX(-35%);
 }
 .navbar ul{
     display: flex;
